@@ -15,20 +15,20 @@ const projetosDetails = {
   proj1: {
     title: 'Mentes em Jogo',
     description: 'Um tabuleiro com foco na inclusão de crinças de 8 a 12 anos no espectro autista. Esse tabuleiro usa o arduino para mostrar o dado e os desafios que o jogadore deve fazer, além de mostrar onde o jogador está por meio de leds.',
-    imagem1:'C:\\Users\\Pedro\\Downloads/Tabuleiro.jpeg',
-    imagem2:'C:\\Users\\Pedro\\Downloads/Tabuleiro.jpeg',
-    imagem3:'C:\\Users\\Pedro\\Downloads/Tabuleiro.jpeg',
-    imagem4:'C:\\Users\\Pedro\\Downloads/Tabuleiro.jpeg',
-    imagem5:'C:\\Users\\Pedro\\Downloads/Tabuleiro.jpeg'
+    imagem1:'imagens\\Tabuleiro.jpeg',
+    imagem2:'imagens\\Tabuleiro.jpeg',
+    imagem3:'imagens\\Tabuleiro.jpeg',
+    imagem4:'imagens\\Tabuleiro.jpeg',
+    imagem5:'imagens\\Tabuleiro.jpeg'
 },
   proj2: {
     title: 'Aplicativo fitness',
     description: 'Um aplicativo fitness para registro de treinos de crossfit com sistema de cadastro e login, podendo filtrar treinos e visualizar treinos antigos, além de se poder adicionar metas, foi utilizado o biblioteca "tkinter" do python para fazer a parte gráfica.',
-    imagem1:'C:\\Users\\Pedro\\Downloads/novoLoginNovo.jpg',
-    imagem2:'C:\\Users\\Pedro\\Downloads/novoCadastroNovo.jpg',
-    imagem3:'C:\\Users\\Pedro\\Downloads/novoTelaInicial.jpg',
-    imagem4:'C:\\Users\\Pedro\\Downloads/NovoTreinos.jpg',
-    imagem5:'C:\\Users\\Pedro\\Downloads/novoVisualizar.jpg'
+    imagem1:'imagens\\novoLoginNovo.jpg',
+    imagem2:'imagens\\novoCadastroNovo.jpg',
+    imagem3:'imagens\\novoTelaInicial.jpg',
+    imagem4:'imagens\\NovoTreinos.jpg',
+    imagem5:'imagens\\novoVisualizar.jpg'
   }
 };
 
